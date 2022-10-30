@@ -1,0 +1,41 @@
+{
+  "name": "midterm",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^14.18.0",
+    "npm": "^6.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "https-error": "^1.0.2",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.7.0",
+    "morgan": "~1.9.1"
+  },
+  "description": "This is an initial project template for students to implement the remaining code, as per midterm test requirements.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hellohuman11/COMP229008-F2021-Midterm-301150666.git"
+  },
+  "author": "Seungkoo Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hellohuman11/COMP229008-F2021-Midterm-301150666/issues"
+  },
+  "homepage": "https://github.com/Hellohuman11/COMP229008-F2021-Midterm-301150666#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
